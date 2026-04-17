@@ -17,5 +17,5 @@ Projeto desenvolvido durante a Aula 01 da Imersão de Power BI para Negócios. O
 * Visualização da representatividade de despesas operacionais sobre o faturamento.
 
 ## 📷 Visualização do Projeto
-![Dashboard Home](./Home.png)
-![Dashboard Geral](./VisaoGeral.png)
+![Dashboard Home](screenshots/Home.png)
+![Dashboard Geral](screenshots/VisaoGeral.png)
