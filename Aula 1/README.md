@@ -18,4 +18,4 @@ Projeto desenvolvido durante a Aula 01 da Imersão de Power BI para Negócios. O
 
 ## 📷 Visualização do Projeto
 ![Dashboard Home](screenshots/Home.png)
-![Dashboard Geral](screenshots/VisaoGeral.png)
+![Dashboard Geral](screenshots/VisãoGeral.png)
