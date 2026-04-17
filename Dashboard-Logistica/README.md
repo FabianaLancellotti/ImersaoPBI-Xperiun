@@ -14,4 +14,6 @@ Análise focada em eficiência operacional, monitoramento de prazos de entrega (
 ## 🚀 Diferenciais do Projeto
 * Design focado em "Centro de Comando" para tomadas de decisão rápidas em logística.
 
-
+## 📸 Visualização do Projeto
+![Dashboard Home](screenshots/Home.png)
+![Dashboard Geral](screenshots/VisãoGeral.png)
