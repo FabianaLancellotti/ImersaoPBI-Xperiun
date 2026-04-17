@@ -12,7 +12,7 @@ Projeto final da imersão, focado em modelagem de dados avançada e análise de 
 * **Análise de Portfólio:** Visão detalhada por categoria de produto (ex: Camisas Floridas) e tamanhos.
 
 ## 📂 Como visualizar
-1. Baixe o arquivo `.pbix` deste repositório.
+1. Baixe o arquivo `Dashboard-Vendas/Aula 3 - Dashboard Vendas - Xperiun.pbix` deste repositório.
 2. Abra no Power BI Desktop.
 
 ## 📸 Visualização do Projeto
