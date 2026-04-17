@@ -15,4 +15,7 @@ Projeto final da imersão, focado em modelagem de dados avançada e análise de 
 1. Baixe o arquivo `.pbix` deste repositório.
 2. Abra no Power BI Desktop.
 
-
+## 📸 Visualização do Projeto
+![Dashboard Home](screenshots/Home.png)
+![Dashboard Geral](screenshots/VisãoGeral.png)
+![Dashboard Geral](screenshots/VisãoGeraleTooltips.png)
